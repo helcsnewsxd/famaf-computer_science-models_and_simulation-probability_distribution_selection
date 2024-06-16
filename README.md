@@ -13,3 +13,10 @@ Proyecto de Selección de Distribución de Probabilidad de Modelos y Simulación
 
 - Bratti, Juan
 - Herrador, Emanuel Nicolás
+
+
+## Trabajo Práctico 1
+
+| Consigna | Notebook | Informe |
+|----------|----------|---------|
+| [Enunciado](./enunciado_del_proyecto.pdf) | [Notebook](./solution.ipynb) | [Informe](./informe.pdf) |
